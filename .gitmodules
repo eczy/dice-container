@@ -1,0 +1,6 @@
+[submodule "mlcuddidil"]
+	path = mlcuddidil
+	url = git@github.com:SHoltzen/mlcuddidil.git
+[submodule "dice"]
+	path = dice
+	url = git@github.com:SHoltzen/dice.git
