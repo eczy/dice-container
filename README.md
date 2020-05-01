@@ -4,7 +4,7 @@ A Docker container which comes with the Dice interpreter found here: https://git
 
 ## To Build:
 ```
-git@github.com:eczy/dice-container.git
+git clone --recurse-submodules git@github.com:eczy/dice-container.git
 cd dice-container
 docker build -t dice .
 ```
